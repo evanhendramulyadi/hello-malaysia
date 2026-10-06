@@ -98,12 +98,11 @@ class AboutUsPage extends StatelessWidget {
               const SizedBox(height: 25),
 
               Image.asset(  
-                'assets/images/background.png',
+                'assets/images/background.jpg',
                 width: double.infinity,
                 fit: BoxFit.fitWidth,
               ),
 
-              const SizedBox(height: 25),
 
               Image.asset(  
                 'assets/images/goal.png',
