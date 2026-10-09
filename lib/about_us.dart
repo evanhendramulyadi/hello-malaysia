@@ -98,7 +98,7 @@ class AboutUsPage extends StatelessWidget {
               const SizedBox(height: 25),
 
               Image.asset(  
-                'assets/images/background.jpg',
+                'assets/images/background.png',
                 width: double.infinity,
                 fit: BoxFit.fitWidth,
               ),
@@ -110,7 +110,6 @@ class AboutUsPage extends StatelessWidget {
                 fit: BoxFit.fitWidth,
               ),
 
-              const SizedBox(height: 25),
 
               Image.asset(  
                 'assets/images/logo-philosophy.png',
